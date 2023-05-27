@@ -1,6 +1,7 @@
 {
   "name": "histo",
   "version": "0.1.0",
+  "homepage": "https://albert-tadros.github.io/hostos-histology-project-Demo/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
@@ -61,5 +62,3 @@
     "gh-pages": "^5.0.0"
   }
 }
-
-
