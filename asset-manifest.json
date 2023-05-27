@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hostos-histology-project-Demo/static/css/main.cdb41537.css",
+    "main.js": "/hostos-histology-project-Demo/static/js/main.a609b460.js",
+    "static/js/787.b35fd2a0.chunk.js": "/hostos-histology-project-Demo/static/js/787.b35fd2a0.chunk.js",
+    "index.html": "/hostos-histology-project-Demo/index.html",
+    "main.cdb41537.css.map": "/hostos-histology-project-Demo/static/css/main.cdb41537.css.map",
+    "main.a609b460.js.map": "/hostos-histology-project-Demo/static/js/main.a609b460.js.map",
+    "787.b35fd2a0.chunk.js.map": "/hostos-histology-project-Demo/static/js/787.b35fd2a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb41537.css",
+    "static/js/main.a609b460.js"
+  ]
+}

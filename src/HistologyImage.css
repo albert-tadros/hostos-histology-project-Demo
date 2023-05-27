@@ -1,0 +1,37 @@
+/* .histology-image canvas {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+/* 
+.histology-image {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.histology-image canvas {
+  max-width: 100%;
+  max-height: 100%;
+} */
+
+.histology-image {
+  position: relative;
+  width: 100%;
+  padding-top: 75%; /* Set the aspect ratio, e.g., 3:4 */
+  overflow: hidden;
+}
+
+.histology-image > * {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
